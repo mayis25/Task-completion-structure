@@ -14,7 +14,7 @@ Python приложение для приветствия студентов с 
 | 3 | Задание 3 | [Репозиторий 3](https://github.com/mayis25/Task-2.1.git) | ✅ | 01.10.2025 |
 | 4 | Задание 4 | [Репозиторий 4](https://github.com/mayis25/my-first-project.git) | ✅ | 01.10.2025 |
 | 5 | Задание 5 | [Репозиторий 5](https://github.com/mayis25/student-app-final.git) | ✅ | 01.10.2025 |
-| 6 | Задание 6 | [Репозиторий 6](https://github.com/mayis25/Task-completion-structure.git). | ⏸️ | 01.10.2025 |
+| 6 | Задание 6 | [Репозиторий 6](https://github.com/mayis25/Task-completion-structure.git). | ✅ | 01.10.2025 |
 
 **Примечание:** 
 - ✅ - задание выполнено
@@ -34,6 +34,7 @@ python app.py
 
 # Запуск тестов
 pytest test_app.py -v
+
 
 
 
